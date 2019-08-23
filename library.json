@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-drv8825-stepper-motor-drive",
+  "title": "drv8825-stepper-motor-drive",
+  "keywords": "drv8825-stepper-motor-drive, esp32, esp8266, arduino",
+  "description": "drv8825-stepper-motor-drive plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-drv8825-stepper-motor-drive/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-drv8825-stepper-motor-drive/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
